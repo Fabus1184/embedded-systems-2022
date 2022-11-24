@@ -11,4 +11,4 @@
 
 - `volatile` is used to force read/write operations so that the compiler does not optimize them away
 
-- `int` may be of different sizes on different architectures, so `int32_t` is used to ensure that the variable is 32 bits
+- `int` may be of different sizes on different architectures and/or compilers, so `int32_t` is used to ensure that the variable is 32 bits

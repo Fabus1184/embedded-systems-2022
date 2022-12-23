@@ -6,7 +6,7 @@ b) `OS_MAX_TASKS`
 
 c) Mutexes & Semaphores
 
-d)
-    - Mutex: state is boolean (True or False) => locking of a shared resource (e.g. I/O operations)
-    - Sempahore: state is integer variable => temporal synchronization of tasks
+d) 
+- Mutex: state is boolean (True or False) => locking of a shared resource (e.g. I/O operations)
+- Sempahore: state is integer variable => temporal synchronization of tasks
     

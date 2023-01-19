@@ -1,4 +1,4 @@
-# Assignment 1
+# Exercise 1
 
 1) the main application area of StateCharts is modeling of reactive systems to generate code
 
